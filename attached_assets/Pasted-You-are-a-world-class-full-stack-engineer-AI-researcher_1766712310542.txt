@@ -1,0 +1,193 @@
+You are a world-class full-stack engineer, AI researcher, creative technologist and product designer.
+
+Your task is to design and generate a complete, innovative web application called “Geneseez Frame”, owned by the creative technology brand Geneseez.
+
+This prompt has NO technical restrictions.
+You are encouraged to be creative, bold, modern and experimental, while still delivering something coherent, functional and extensible.
+
+🧬 PRODUCT VISION
+
+Geneseez Frame is a creative motion studio, where:
+
+Everything begins with a single frame
+
+Motion is transferred from one video to another identity
+
+Characters, avatars and people can inherit movement
+
+The frame defines identity
+
+The video defines motion
+
+This is not just a tool — it is a creative system.
+
+🎯 CORE EXPERIENCE (MANDATORY CONCEPT)
+
+The application must revolve around this concept:
+
+A user uploads a reference video
+
+The user selects where the scene truly begins
+
+The system extracts the initial frame of that scene
+
+That frame becomes the base identity
+
+Motion from the rest of the video is applied to that identity
+
+The result is a new animated video, faithful to the original movement
+
+The initial frame is the most important artifact in the entire system.
+
+Design everything around it.
+
+🧠 CREATIVE FREEDOM (IMPORTANT)
+
+You are free to:
+
+Choose any programming language
+
+Choose any framework
+
+Use any AI models
+
+Decide between local, cloud, hybrid or modular architecture
+
+Split the system into microservices or keep it monolithic
+
+Propose experimental or novel pipelines
+
+Mix traditional video processing with AI
+
+Introduce abstractions, presets, timelines or layers
+
+Do not feel constrained by previous implementations or tutorials.
+
+🧩 FEATURES YOU MAY EXPLORE (OPTIONAL, NOT REQUIRED)
+
+You are encouraged to creatively explore ideas such as:
+
+Visual timeline for selecting the motion segment
+
+Frame-centric editing workflow
+
+Character replacement using the extracted frame
+
+Identity layers vs motion layers
+
+Motion presets
+
+Stylized vs realistic modes
+
+Real-time previews or progressive rendering
+
+Export options (social media, cinematic, vertical, etc.)
+
+These are inspirations, not requirements.
+
+🧱 ARCHITECTURAL THINKING (VERY IMPORTANT)
+
+Even with creative freedom, the solution must show:
+
+Clear separation of concerns
+
+A coherent data flow
+
+Scalable thinking
+
+Future-proof design
+
+Strong product logic
+
+Explain why architectural decisions were made.
+
+🎨 BRAND & AESTHETIC
+
+Brand: Geneseez
+Product: Geneseez Frame
+
+Tone:
+
+Premium
+
+Creative
+
+Futuristic
+
+Minimal
+
+Identity-driven
+
+Suggested slogan:
+
+“Everything begins with a frame.”
+
+The UI/UX should feel like:
+
+A creative studio
+
+A tool for artists, creators and storytellers
+
+Something between design software and AI lab
+
+📦 EXPECTED OUTPUT
+
+Generate:
+
+A complete concept of the application
+
+A technical architecture proposal
+
+A functional implementation (code where applicable)
+
+Clear explanations of:
+
+How motion is transferred
+
+How the frame is used as identity
+
+How the system can evolve
+
+Suggestions for future features and monetization
+
+You may generate:
+
+Multiple files
+
+One file
+
+Modular components
+
+Or a hybrid approach
+
+Choose what best fits the vision.
+
+🚀 MINDSET
+
+Think like:
+
+A startup CTO
+
+A creative director
+
+An AI engineer
+
+A product visionary
+
+This is not a tutorial.
+This is the foundation of a real creative product.
+
+Start now.
+Be bold.
+Be creative.
+Push boundaries.
+
+🧠 COMO USAR ESSE PROMPT (DICA IMPORTANTE)
+
+Não complemente o prompt
+
+Não explique demais depois
+
+Deixe o Vercel propor soluções
+
+Depois, você decide o que aproveitar

@@ -4,8 +4,9 @@ import { UploadZone } from "@/components/UploadZone";
 import { VideoPlayer } from "@/components/VideoPlayer";
 import { useCreateProject, useProject, useProcessProject } from "@/hooks/use-projects";
 import { motion, AnimatePresence } from "framer-motion";
-import { Wand2, Download, RefreshCw, LayoutTemplate, Share2, Layers } from "lucide-react";
+import { Wand2, Download, RefreshCw, LayoutTemplate, Share2, Layers, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { cn } from "@/lib/utils";
 
 export default function Home() {
   const [projectId, setProjectId] = useState<number | null>(null);
